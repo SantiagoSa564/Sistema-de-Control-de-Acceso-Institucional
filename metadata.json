@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Control de Acceso y Carnet Institucional",
+  "description": "Plataforma móvil institucional de control de acceso en porterías, custodia de equipos tecnológicos, validación de credenciales y carnet digital seguro.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
